@@ -1,0 +1,6 @@
+framework module Pods_wjCardRecognize {
+  umbrella header "Pods-wjCardRecognize-umbrella.h"
+
+  export *
+  module * { export * }
+}
